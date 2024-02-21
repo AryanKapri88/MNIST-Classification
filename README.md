@@ -36,6 +36,7 @@ Stochastic Gradient Descent (SGD) works by iteratively updating the parameters o
 ## Files Included
 
 `MNIST_classification.ipynb`: Jupyter Notebook containing the code for data exploration, model training, and evaluation.
+
 `requirements.txt`: List of required Python packages.
 
 ## Acknowledgment
