@@ -1,5 +1,5 @@
 ## MNIST Digit Classification Project
-(MNIST)[https://miro.medium.com/v2/resize:fit:1400/1*XdCMCaHPt-pqtEibUfAnNw.png]
+![MNIST](https://miro.medium.com/v2/resize:fit:1400/1*XdCMCaHPt-pqtEibUfAnNw.png)
 
 ### Overview
 
