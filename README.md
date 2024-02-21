@@ -27,4 +27,21 @@ Stochastic Gradient Descent (SGD) works by iteratively updating the parameters o
 
 ![SGD](https://miro.medium.com/v2/resize:fit:491/1*n4ftRAKEJu8-gLB3pzY0DA.png)
 
+## Result and Accuracy
+
+|ML Model|Train Accuracy|Test Accuracy|
+|---|---|---|
+|Stochastic Gradient Descent (SGD) Regressor|97.3%|97.1%|
+
+## Files Included
+
+`MNIST_classification.ipynb`: Jupyter Notebook containing the code for data exploration, model training, and evaluation.
+`requirements.txt`: List of required Python packages.
+
+## Acknowledgment
+
+The MNIST dataset used in this project is fetched using `fetch_openml` from the `sklearn.datasets`.
+
+
+
 
